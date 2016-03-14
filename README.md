@@ -2,6 +2,8 @@
 
 Based on the API documentation, use the Laravel framework to implement working endpoints for Create Purchase and Retrieve List of Purchases.
 
+[API]
+
     https://github.com/Sarmizegetusa/Coding-Challenge/wiki/API
 
 This will include creating database tables and models for the Purchase and Offering objects.
