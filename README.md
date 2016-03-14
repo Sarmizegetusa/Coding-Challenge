@@ -2,7 +2,7 @@
 
 Based on the API documentation, use the Laravel framework to implement working endpoints for Create Purchase and Retrieve List of Purchases.
 
-[API]
+[[API|API]]
 
     https://github.com/Sarmizegetusa/Coding-Challenge/wiki/API
 
