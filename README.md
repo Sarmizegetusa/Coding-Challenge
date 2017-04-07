@@ -1,6 +1,6 @@
 # Coding Challenge
 
-Based on the API documentation, use the Laravel framework to implement working endpoints for Create Purchase and Retrieve List of Purchases.
+Based on the API documentation, use PHP (preferably using Laravel 5.3, but feel free to use any or no framework), to implement working endpoints for Create Purchase and Retrieve List of Purchases.
 
     https://github.com/Sarmizegetusa/Coding-Challenge/wiki
 
@@ -12,7 +12,7 @@ Use basic authentication and perform the necessary argument validations and erro
 
 Prepopulate a couple Offering objects to use when creating a Purchase.
 
-Create a screen using AngularJS (feel free to use another framework, if necessary), to create purchase. It should have the following:
+Create a screen using AngularJS (feel free to use any other framework), to create purchase. It should have the following:
 
 * A way to select the Offering to purchase.
 * A field for the customer name.
