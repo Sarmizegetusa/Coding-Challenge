@@ -1,5 +1,13 @@
 # Coding Challenge
 
+## Pre-requisites
+
+Before attempting the challenge, make sure you have a Github account, and create a public repository (ex. PivvitChallenge), where you'll put all the code you create during the challenge.
+
+Setup an environment with PHP 7 (preferably using Laravel 5.3, but feel free to use any or no framework), and Javascript (preferably using AngularJS 1.2, but feel free to use any or no framework), and have everything ready to just start coding.
+
+## Instructions
+
 Based on the API documentation, use PHP (preferably using Laravel 5.3, but feel free to use any or no framework), to implement working endpoints for Create Purchase and Retrieve List of Purchases.
 
     https://github.com/Sarmizegetusa/Coding-Challenge/wiki
@@ -12,7 +20,7 @@ Use basic authentication and perform the necessary argument validations and erro
 
 Prepopulate a couple Offering objects to use when creating a Purchase.
 
-Create a screen using AngularJS (feel free to use any other framework), to create purchase. It should have the following:
+Create a screen using Javascript (preferably using AngularJS 1.2, but feel free to use any or no framework), to create purchase. It should have the following:
 
 * A way to select the Offering to purchase.
 * A field for the customer name.
