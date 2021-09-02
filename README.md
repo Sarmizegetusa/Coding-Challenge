@@ -10,7 +10,7 @@ Setup an environment with PHP 7.4, Laravel 7, and VueJS 2, and have everything r
 
 Based on the API documentation, use Laravel to implement working endpoints for Create Purchase and Retrieve List of Purchases.
 
-    https://github.com/Sarmizegetusa/Coding-Challenge/wiki
+https://github.com/Sarmizegetusa/Coding-Challenge/wiki
 
 This will include creating database tables and models for the Purchase and Offering objects.
 
