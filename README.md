@@ -1,4 +1,4 @@
-# Coding Challenge
+# Coding Challenge (Donations)
 
 ## Pre-requisites
 
